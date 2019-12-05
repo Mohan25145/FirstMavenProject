@@ -16,5 +16,6 @@ public class FirstJenkin {
 		System.out.println("Hello, World");*/
 		
 		System.out.println("First maven project with Jenkins");
+		System.out.println("Hello Git");
 	}
 }
